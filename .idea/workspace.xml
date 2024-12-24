@@ -10,9 +10,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sematy95"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sematy95/telegram_bot-1.git",
+    "accountId": "24bc11ff-7794-4af4-a078-5e27d596d2f4"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2qg6YxXHzd4WFpPrblO18ughBkP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,9 +33,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "telegram__bot__branch",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tychk/IdeaProjects/telegram-bot",
+    "last_opened_file_path": "C:/Users/tychk/IdeaProjects/telegram-bot-v1",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1735071923083</updated>
       <workItem from="1735071924200" duration="41000" />
+      <workItem from="1735073761098" duration="25000" />
     </task>
     <servers />
   </component>
